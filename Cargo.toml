@@ -10,7 +10,7 @@ homepage        = "https://github.com/autumnai/collenchyma-nn"
 documentation   = "https://autumnai.github.io/collenchyma-nn"
 readme          = "README.md"
 
-keywords        = ["neural-network", "collenchyma", "computation", "hpc", "plugin"]
+keywords        = ["leaf", "neural-network", "collenchyma", "computation", "hpc", "plugin"]
 license         = "MIT OR Apache-2.0"
 
 [dependencies]
